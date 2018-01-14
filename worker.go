@@ -1,6 +1,5 @@
 package parvi
 
-
 // Worker - an interface representing a client or processor that
 // handles requests (operations).
 //

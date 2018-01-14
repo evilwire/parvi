@@ -1,8 +1,8 @@
 package parvi
 
 import (
-	"sync"
 	"github.com/pkg/errors"
+	"sync"
 )
 
 type reqtype int8

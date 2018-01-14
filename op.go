@@ -1,6 +1,5 @@
 package parvi
 
-
 // Operation - an interface representing a unit of task to be
 // done by a worker. For example, if you want to define a pool of
 // http requests or database readers, then your operation can be
