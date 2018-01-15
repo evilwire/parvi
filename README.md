@@ -7,6 +7,9 @@ Managing flocks in go.
 [![Go Report Card](https://goreportcard.com/badge/github.com/evilwire/parvi)](https://goreportcard.com/report/github.com/evilwire/parvi)
 
 
+## Main Example
+
+
 ## Use Case
 
 #### you have a function and you want to parallelise it
@@ -14,19 +17,20 @@ Managing flocks in go.
 
 #### you want to build in retries and automatic failure-handling
 
+
 #### you want to safely scale up/down depending on a rule
-
-
-## How to Use
 
 
 ## Main Interfaces
 
 
-## Main Function
+## Main Methods of `WorkerPool`
 
 
 ## Concurrency Behaviours
+
+
+## Handling Errors
 
 
 ## Parvi? What is that?
