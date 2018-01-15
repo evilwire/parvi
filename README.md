@@ -7,6 +7,19 @@ Managing flocks in go.
 [![Go Report Card](https://goreportcard.com/badge/github.com/evilwire/parvi)](https://goreportcard.com/report/github.com/evilwire/parvi)
 
 
+## Use Case
+
+#### you have a function and you want to parallelise it
+
+
+#### you want to build in retries and automatic failure-handling
+
+#### you want to safely scale up/down depending on a rule
+
+
+## How to Use
+
+
 ## Main Interfaces
 
 
