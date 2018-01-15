@@ -1,9 +1,19 @@
 # parvi 
 
+Managing flocks in go.
+
 [![CircleCI](https://circleci.com/gh/evilwire/parvi.svg?style=svg)](https://circleci.com/gh/evilwire/parvi)
 [![codecov](https://codecov.io/gh/evilwire/parvi/branch/master/graph/badge.svg)](https://codecov.io/gh/evilwire/parvi)
 
-Managing flocks in go.
+
+## Main Interfaces
+
+
+## Main Function
+
+
+## Concurrency Behaviours
+
 
 ## Parvi? What is that?
 
