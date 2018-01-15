@@ -10,5 +10,7 @@ Managing flocks in go.
 I think it's the Finnish word for "flock" (as in a flock of birds), 
 though I am not really sure. If it isn't clear already, I'm not Finnish.
 I looked it up in Google Translate, and I am informed that it's pronounced
-('pärvē or PAR-vee).
+`/'pärvē/` or PAR-vee. 
+
+If you are Finnish and you think I'm well silly, I'm sorry.
 
